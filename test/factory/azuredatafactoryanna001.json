@@ -1,0 +1,9 @@
+{
+	"name": "azuredatafactoryanna001",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1925c399-fb15-487e-9ab0-88eda7787b91",
+		"tenantId": "9b75460c-ebe7-4655-bd42-05dd23289387"
+	}
+}
