@@ -49,7 +49,7 @@
 						"mappings": [
 							{
 								"source": {
-									"type": "Byte",
+									"type": "String",
 									"ordinal": 1
 								},
 								"sink": {
@@ -58,7 +58,7 @@
 							},
 							{
 								"source": {
-									"type": "Byte",
+									"type": "String",
 									"ordinal": 2
 								},
 								"sink": {
