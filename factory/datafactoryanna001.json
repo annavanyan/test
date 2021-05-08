@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryanna001",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9f1401c2-6fe1-414b-8e8a-47c55379bf55",
+		"tenantId": "9b75460c-ebe7-4655-bd42-05dd23289387"
+	}
+}
