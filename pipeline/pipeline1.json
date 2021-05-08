@@ -32,6 +32,32 @@
 					"enableStaging": false,
 					"translator": {
 						"type": "TabularTranslator",
+						"mappings": [
+							{
+								"source": {
+									"name": "GameID",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "GameID",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							},
+							{
+								"source": {
+									"name": " \"GameScore\"",
+									"type": "String",
+									"physicalType": "String"
+								},
+								"sink": {
+									"name": "GameScore",
+									"type": "Int32",
+									"physicalType": "int"
+								}
+							}
+						],
 						"typeConversion": true,
 						"typeConversionSettings": {
 							"allowDataTruncation": true,
